@@ -1122,7 +1122,7 @@ input, select, textarea {
 			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/bg.jpg");
 			background-size: auto, 256px 256px;
 			background-position: center, center;
-			background-repeat: no-repeat, repeat;
+			background-repeat: no-repeat, no-repeat;
 			z-index: 2;
 		}
 
@@ -1137,7 +1137,7 @@ input, select, textarea {
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
 			background-image: url("../../images/bg.jpg");
 			background-position: center;
-			background-size: contain;
+			background-size: cover;
 			background-repeat: no-repeat;
 			z-index: 1;
 		}
