@@ -596,7 +596,7 @@ input, select, textarea {
 
 /* Icon */
 
-.material-icons {
+#header .material-icons {
     font-family: 'Material Icons';
     font-weight: normal;
     font-style: normal;
