@@ -1271,12 +1271,12 @@ input, select, textarea {
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
-			border: solid 2px #ffffff;
+			border: solid 1px #ffffff;
 			border-radius: 100%;
 		}
 
 			#header .logo .icon:before {
-				font-size: 3rem;
+				font-size: 2rem;
 			}
 
 		#header .content {
